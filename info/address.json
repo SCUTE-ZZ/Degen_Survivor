@@ -1,0 +1,10 @@
+{
+	"localhost": {
+		"ProxyAdmin": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+		"MyNFT": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+	},
+	"sepolia": {
+		"ProxyAdmin": "0x6B01332b1536e5B81fb1F4f1d85c8aAD9a76671d",
+		"MyNFT": "0x0C2f821aA0A31D4844F0B99D6Ec8C4e1D2f5662B"
+	}
+}
